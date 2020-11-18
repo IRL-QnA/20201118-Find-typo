@@ -26,4 +26,4 @@
 
 # 해결방법
 
-[오타를 찾았습니다 `643a5d`](/../../20201118-Find-typo/commit/643a5d0da5b2f719c45e276a1cc98de608c2aab0)
+[오타를 찾았습니다 `643a5d`](/../../commit/643a5d0da5b2f719c45e276a1cc98de608c2aab0)
